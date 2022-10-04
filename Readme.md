@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Андрей Нечаев](https://up.htmlacademy.ru/javascript/27/user/674755).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Ульянов] (https://htmlacademy.ru/profile/lionskape).
 
 ---
 
